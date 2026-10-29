@@ -6,9 +6,11 @@ Proyek ini dibuat untuk **Tugas 05 – Sesi 5**.
 ## Identitas
 
 | | |
-| --- | --- |
 | Nama | Syifa Nurul Afifah |
 | NIM | 20240040286 |
+
+## Demo Aplikasi
+https://youtu.be/q4VFIg5xYpY
 
 ## Fitur
 
