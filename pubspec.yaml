@@ -1,0 +1,19 @@
+name: tugas_sesi_5
+description: NusaEvent Hub - aplikasi seminar, galeri, denah venue, dan tiket (Tugas Sesi 5).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
