@@ -10,6 +10,7 @@ NIM : 20240040286
 https://youtu.be/q4VFIg5xYpY
 
 ## Laporan + Hasil Screenshoot 
+https://drive.google.com/drive/folders/1ayruc1L9_A6gJQBtZvcVBsBPDEqd5ZSm?usp=sharing
 
 ## Fitur
 
