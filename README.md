@@ -1,7 +1,6 @@
 # NusaEvent Hub
 
 Aplikasi Flutter untuk menampilkan seminar dan workshop kampus, melihat detail acara, melihat galeri poster dan denah venue, serta mendaftar dan mengelola tiket digital.
-Proyek ini dibuat untuk **Tugas 05 – Sesi 5**.
 
 ## Identitas
 Nama: Syifa Nurul Afifah 
@@ -9,6 +8,8 @@ NIM : 20240040286
 
 ## Demo Aplikasi
 https://youtu.be/q4VFIg5xYpY
+
+## Laporan + Hasil Screenshoot 
 
 ## Fitur
 
